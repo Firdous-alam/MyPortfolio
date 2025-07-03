@@ -1,0 +1,6 @@
+@Firdous_Portfolio_HostAddress = http://localhost:5037
+
+GET {{Firdous_Portfolio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
